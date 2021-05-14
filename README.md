@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Stan Turovsky.
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning a variety of programming languages.
+- 💞️ I’m looking to collaborate on finding a good job related to my coding interests.
+- 📫 Details on how to reach me will be provided privately.
